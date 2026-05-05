@@ -17,65 +17,68 @@ The system dynamically adjusts a solar panel orientation based on light intensit
 
    Hardware
    
-Arduino Uno / Nano
-3x Photoresistors (LDR)
-Servo motor
-MPU6050 (IMU)
-nRF24L01+ (2x for TX/RX)
-Breadboard & jumper wires
-External power supply
+1. Arduino Uno / Nano
+2. 3x Photoresistors (LDR)
+3. Servo motor
+4. MPU6050 (IMU)
+5. nRF24L01+ (2x for TX/RX)
+6. Breadboard & jumper wires
+7. External power supply
 
   Mechanical Design
 
 The structural frame was designed using SolidWorks.
-Custom frame for mounting sensors and servo mechanism
-Optimized layout for stability and compactness
-Designed specifically for solar panel movement
+Custom frame for mounting sensors and servo mechanism.
+Optimized layout for stability and compactness.
+Designed specifically for solar panel movement.
 
   Structural Analysis
 
 Basic simulations were performed to validate the mechanical design:
-Static Study
-Evaluated structural strength under load
-Verified safe operation under component weight
-Frequency Study
-Identified natural frequencies
-Ensured no resonance under typical operation
+Static Study:
+1. Evaluated structural strength under load
+2. Verified safe operation under component weight
+Frequency Study:
+1. Identified natural frequencies
+2. Ensured no resonance under typical operation
 
   System Architecture
   
-Satellite (Transmitter)
-Reads light sensor values
-Calculates optimal solar panel angle
-Measures roll and pitch using IMU
-Sends telemetry data via RF
-Ground Station (Receiver)
-Receives RF data
-Displays or logs telemetry
+1. Satellite (Transmitter)
+2. Reads light sensor values
+3. Calculates optimal solar panel angle
+4. Measures roll and pitch using IMU
+5. Sends telemetry data via RF
+6. Ground Station (Receiver)
+7. Receives RF data
+8. Displays or logs telemetry
 
   Software
-Arduino (C/C++)
-RF24 library for nRF communication
+1. Arduino (C/C++)
+2. RF24 library for nRF communication
 
   Media
 
 Full system prototype
+
 Solar tracking mechanism
+
 CAD model screenshots
+
 Simulation results
 
   Key Concepts
 
-Embedded systems design
-Feedback control systems
-Sensor integration
-Wireless communication
-Basic structural analysis
+1. Embedded systems design
+2. Feedback control systems
+3. Sensor integration
+4. Wireless communication
+5. Basic structural analysis
 
   Future Improvements
   
-Closed-loop attitude stabilization
-GPS integration
-Data visualization dashboard
-Power optimization
+1. Closed-loop attitude stabilization
+2. GPS integration
+3. Data visualization dashboard
+4. Power optimization
 
