@@ -64,8 +64,13 @@ Full system prototype
 Solar tracking mechanism
 
 CAD model screenshots
+<img width="615" height="602" alt="image" src="https://github.com/user-attachments/assets/b47a3d1a-a1bf-4771-823a-f4e4112d94c3" />
 
 Simulation results
+<img width="839" height="655" alt="image" src="https://github.com/user-attachments/assets/d1dd70ae-cb74-44a4-9e87-1fdf02c0ed28" />
+<img width="792" height="656" alt="image" src="https://github.com/user-attachments/assets/5e91faad-9381-43db-8aab-22e05a792594" />
+<img width="958" height="642" alt="image" src="https://github.com/user-attachments/assets/71207de3-c726-4119-a065-f09d2b740823" />
+<img width="1046" height="654" alt="image" src="https://github.com/user-attachments/assets/131c2e34-0364-4471-94c6-bf1b59f572f0" />
 
   Key Concepts
 
