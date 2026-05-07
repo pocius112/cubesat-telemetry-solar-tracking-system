@@ -60,9 +60,7 @@ Frequency Study:
   Media
 
 Full system prototype
-
-Solar tracking mechanism
-
+<img width="3000" height="2268" alt="circuit_image (1)" src="https://github.com/user-attachments/assets/d87d6e86-718e-48a1-a666-bf99084ca48d" />
 CAD model screenshots
 <img width="615" height="602" alt="image" src="https://github.com/user-attachments/assets/b47a3d1a-a1bf-4771-823a-f4e4112d94c3" />
 
